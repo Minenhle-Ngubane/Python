@@ -1,1 +1,1 @@
-"This repository contains python projects from terminal, GUI, and web based applications." 
+This repository contains python projects from terminal, GUI, and web based applications.
